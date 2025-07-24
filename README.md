@@ -186,12 +186,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Support
-
-- **Documentation**: [https://octahexa.com/docs/error-log-test](https://octahexa.com/docs/error-log-test)
-- **Issues**: [GitHub Issues](https://github.com/octahexa/error-log-test-plugin/issues)
-- **Email**: support@octahexa.com
-
 ## Changelog
 
 ### 1.0.0 - 2025-01-24
